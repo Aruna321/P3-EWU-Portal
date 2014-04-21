@@ -1,0 +1,57 @@
+.main-logo {
+	width: 70px;
+	height: 75px;
+	margin-top: 5px;
+	text-indent: 70px;
+	white-space: nowrap;
+	
+	background: url('../img/ID_logo.png') no-repeat;
+	background-size: 100%;
+}
+
+body {
+	background: url(../img/brushed_alu_dark.png);
+}
+
+.title {
+	color: #a61412;
+	font-family: 'Red October', sans-serif;
+	text-transform: lowercase;
+	font-size: 1.5em;
+}
+
+.navigational {
+	background-color: black;
+}
+
+
+.blurg {
+	font-family: 'Red October', sans-serif;
+}
+/*
+.primary_nav {
+	padding-left: 2.22em;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+	font-family: 'Red October';
+	src: url('../assets/red_october-regular-webfont.ttf');
+}
+
+@font-face {
+	font-family: 'abwechselnschrift';
+	src: url('../assets/abwechselnschrift.ttf');
+}
